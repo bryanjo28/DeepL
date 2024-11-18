@@ -1,0 +1,9 @@
+1b85018f-ea82-4329-b4ff-e58e2a277717:fx
+
+https://www.bca.co.id/mybca
+https://www.bca.co.id/merchantbca
+https://www.bca.co.id/id/bisnis/layanan/e-banking-bisnis/mybca-bisnis
+ 
+ini ya halaman testingnya kakak2
+myBCA aplikasi perbankan dari BCA yang diakses menggunakan BCA ID untuk mudahnya telusuri informasi, transaksi seluruh portfolio perbankan BCA
+ 
